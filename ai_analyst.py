@@ -4,7 +4,7 @@ import pandas as pd
 import google.generativeai as genai
 
 # CONFIGURE API
-genai.configure(api_key="AIzaSyDf2iiQdHd1I0HNKYp6IFJqNYmBj8oZtXs")
+genai.configure(api_key="YOUR_API_KEY_HERE")
 model = genai.GenerativeModel("gemini-2.5-flash-preview-05-20")
 
 # LOAD DATA
