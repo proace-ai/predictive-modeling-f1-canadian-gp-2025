@@ -1,0 +1,81 @@
+DriverNumber,FullName,TeamName,Position,Time,Status,Year
+44,Lewis Hamilton,Mercedes,1.0,0 days 01:29:07.084000,Finished,2019
+5,Sebastian Vettel,Ferrari,2.0,0 days 00:00:03.658000,Finished,2019
+16,Charles Leclerc,Ferrari,3.0,0 days 00:00:04.696000,Finished,2019
+77,Valtteri Bottas,Mercedes,4.0,0 days 00:00:51.043000,Finished,2019
+33,Max Verstappen,Red Bull Racing,5.0,0 days 00:00:57.655000,Finished,2019
+3,Daniel Ricciardo,Renault,6.0,,+1 Lap,2019
+27,Nico Hulkenberg,Renault,7.0,,+1 Lap,2019
+10,Pierre Gasly,Red Bull Racing,8.0,,+1 Lap,2019
+18,Lance Stroll,Racing Point,9.0,,+1 Lap,2019
+26,Daniil Kvyat,Toro Rosso,10.0,,+1 Lap,2019
+55,Carlos Sainz,McLaren,11.0,,+1 Lap,2019
+11,Sergio Perez,Racing Point,12.0,,+1 Lap,2019
+99,Antonio Giovinazzi,Alfa Romeo Racing,13.0,,+1 Lap,2019
+8,Romain Grosjean,Haas F1 Team,14.0,,+1 Lap,2019
+7,Kimi Räikkönen,Alfa Romeo Racing,15.0,,+1 Lap,2019
+63,George Russell,Williams,16.0,,+2 Laps,2019
+20,Kevin Magnussen,Haas F1 Team,17.0,,+2 Laps,2019
+88,Robert Kubica,Williams,18.0,,+3 Laps,2019
+23,Alexander Albon,Toro Rosso,19.0,,Collision damage,2019
+4,Lando Norris,McLaren,20.0,,Suspension,2019
+1,Max Verstappen,Red Bull Racing,1.0,0 days 01:36:21.757000,Finished,2022
+55,Carlos Sainz,Ferrari,2.0,0 days 00:00:00.993000,Finished,2022
+44,Lewis Hamilton,Mercedes,3.0,0 days 00:00:07.006000,Finished,2022
+63,George Russell,Mercedes,4.0,0 days 00:00:12.313000,Finished,2022
+16,Charles Leclerc,Ferrari,5.0,0 days 00:00:15.168000,Finished,2022
+31,Esteban Ocon,Alpine,6.0,0 days 00:00:23.890000,Finished,2022
+77,Valtteri Bottas,Alfa Romeo,7.0,0 days 00:00:25.247000,Finished,2022
+24,Guanyu Zhou,Alfa Romeo,8.0,0 days 00:00:26.952000,Finished,2022
+14,Fernando Alonso,Alpine,9.0,0 days 00:00:29.945000,Finished,2022
+18,Lance Stroll,Aston Martin,10.0,0 days 00:00:38.222000,Finished,2022
+3,Daniel Ricciardo,McLaren,11.0,0 days 00:00:43.047000,Finished,2022
+5,Sebastian Vettel,Aston Martin,12.0,0 days 00:00:44.245000,Finished,2022
+23,Alexander Albon,Williams,13.0,0 days 00:00:44.893000,Finished,2022
+10,Pierre Gasly,AlphaTauri,14.0,0 days 00:00:45.183000,Finished,2022
+4,Lando Norris,McLaren,15.0,0 days 00:00:52.145000,Finished,2022
+6,Nicholas Latifi,Williams,16.0,0 days 00:00:59.978000,Finished,2022
+20,Kevin Magnussen,Haas F1 Team,17.0,0 days 00:01:08.180000,Finished,2022
+22,Yuki Tsunoda,AlphaTauri,18.0,,Accident,2022
+47,Mick Schumacher,Haas F1 Team,19.0,,Engine,2022
+11,Sergio Perez,Red Bull Racing,20.0,,Gearbox,2022
+1,Max Verstappen,Red Bull Racing,1.0,0 days 01:33:58.348000,Finished,2023
+14,Fernando Alonso,Aston Martin,2.0,0 days 00:00:09.570000,Finished,2023
+44,Lewis Hamilton,Mercedes,3.0,0 days 00:00:14.168000,Finished,2023
+16,Charles Leclerc,Ferrari,4.0,0 days 00:00:18.648000,Finished,2023
+55,Carlos Sainz,Ferrari,5.0,0 days 00:00:21.540000,Finished,2023
+11,Sergio Perez,Red Bull Racing,6.0,0 days 00:00:51.028000,Finished,2023
+23,Alexander Albon,Williams,7.0,0 days 00:01:00.813000,Finished,2023
+31,Esteban Ocon,Alpine,8.0,0 days 00:01:01.692000,Finished,2023
+18,Lance Stroll,Aston Martin,9.0,0 days 00:01:04.402000,Finished,2023
+77,Valtteri Bottas,Alfa Romeo,10.0,0 days 00:01:04.432000,Finished,2023
+81,Oscar Piastri,McLaren,11.0,0 days 00:01:05.101000,Finished,2023
+10,Pierre Gasly,Alpine,12.0,0 days 00:01:05.249000,Finished,2023
+4,Lando Norris,McLaren,13.0,0 days 00:01:08.363000,Finished,2023
+22,Yuki Tsunoda,AlphaTauri,14.0,0 days 00:01:13.423000,Finished,2023
+27,Nico Hulkenberg,Haas F1 Team,15.0,0 days 00:00:16.943000,Lapped,2023
+24,Guanyu Zhou,Alfa Romeo,16.0,0 days 00:00:17.377000,Lapped,2023
+20,Kevin Magnussen,Haas F1 Team,17.0,0 days 00:01:10.259000,Lapped,2023
+21,Nyck De Vries,AlphaTauri,18.0,0 days 00:01:14.967000,Lapped,2023
+63,George Russell,Mercedes,19.0,,Retired,2023
+2,Logan Sargeant,Williams,20.0,,Retired,2023
+1,Max Verstappen,Red Bull Racing,1.0,0 days 01:45:47.927000,Finished,2024
+4,Lando Norris,McLaren,2.0,0 days 00:00:03.879000,Finished,2024
+63,George Russell,Mercedes,3.0,0 days 00:00:04.317000,Finished,2024
+44,Lewis Hamilton,Mercedes,4.0,0 days 00:00:04.915000,Finished,2024
+81,Oscar Piastri,McLaren,5.0,0 days 00:00:10.199000,Finished,2024
+14,Fernando Alonso,Aston Martin,6.0,0 days 00:00:17.510000,Finished,2024
+18,Lance Stroll,Aston Martin,7.0,0 days 00:00:23.625000,Finished,2024
+3,Daniel Ricciardo,RB,8.0,0 days 00:00:28.672000,Finished,2024
+10,Pierre Gasly,Alpine,9.0,0 days 00:00:30.021000,Finished,2024
+31,Esteban Ocon,Alpine,10.0,0 days 00:00:30.313000,Finished,2024
+27,Nico Hulkenberg,Haas F1 Team,11.0,0 days 00:00:30.824000,Finished,2024
+20,Kevin Magnussen,Haas F1 Team,12.0,0 days 00:00:31.253000,Finished,2024
+77,Valtteri Bottas,Kick Sauber,13.0,0 days 00:00:40.487000,Finished,2024
+22,Yuki Tsunoda,RB,14.0,0 days 00:00:52.694000,Finished,2024
+24,Guanyu Zhou,Kick Sauber,15.0,0 days 00:00:53.528000,Lapped,2024
+55,Carlos Sainz,Ferrari,16.0,,Retired,2024
+23,Alexander Albon,Williams,17.0,,Retired,2024
+11,Sergio Perez,Red Bull Racing,18.0,,Retired,2024
+16,Charles Leclerc,Ferrari,19.0,,Retired,2024
+2,Logan Sargeant,Williams,20.0,,Retired,2024
