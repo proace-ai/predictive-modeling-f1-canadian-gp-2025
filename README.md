@@ -138,7 +138,7 @@ Customize the prediction criteria in `ai_analyst.py` by modifying the prompt tem
 - **Capabilities**: Multi-modal analysis, reasoning, sports analytics
 - **Input**: Structured data + natural language context
 - **Output**: Formatted predictions with explanations
----
+
 ## 📊 Sample Output
 
 🔮 Gemini Prediction:
@@ -166,8 +166,6 @@ suggests they have a car well-suited to various circuit types, and Norris's matu
 
 *   **Disappointment Potential: Charles Leclerc (Ferrari)**
     While undeniably fast and with "Good" wet skill, Charles Leclerc's recent Canadian Grand Prix results have been inconsistent (P3 in 2019, P5 in 2022, P4 in 2023, DNF in 2024 due to reliability). With Lewis Hamilton joining Ferrari in 2025, there could be internal team dynamics, and if Ferrari's reliability or strategic execution falters as it did for them in 2024 Canada, Leclerc might find himself off the podium despite his talent. His primary weakness cited is sometimes losing performance on tires over long runs, which can be critical at a track like Montreal.
-
----
 
 ## 🔮 Limitations
 
