@@ -138,23 +138,36 @@ Customize the prediction criteria in `ai_analyst.py` by modifying the prompt tem
 - **Capabilities**: Multi-modal analysis, reasoning, sports analytics
 - **Input**: Structured data + natural language context
 - **Output**: Formatted predictions with explanations
-
+---
 ## 📊 Sample Output
 
-```
 🔮 Gemini Prediction:
 
-1st: Max Verstappen
-2nd: Lando Norris  
-3rd: Lewis Hamilton
+Here is the prediction for the 2025 Canadian Grand Prix podium:
 
-Reasoning:
-Verstappen's dominance at Montreal continues with his superior
-high-speed stability and tire management. Norris benefits from
-McLaren's low-drag setup and his wet weather expertise given
-the 40% rain chance. Hamilton's experience and wet weather
-mastery secure the final podium spot...
-```
+1st: Max Verstappen
+2nd: Lewis Hamilton
+3rd: Lando Norris
+
+**Reasoning:**
+
+*   **Max Verstappen (1st Place):** Max Verstappen is the undeniable force in modern Formula 1. His recent dominance at the Canadian Grand Prix, securing wins in 2022, 2023, and 2024, showcases his mastery of Circuit Gilles Villeneuve. The track's characteristics – fast straights and heavy braking zones – play directly into Red Bull's strengths. Furthermore, his "Excellent" wet skill is a crucial advantage with a 40% chance of rain, making him even more formidable in potentially tricky conditions. He consistently extracts maximum performance from the car and rarely makes mistakes when leading.
+
+*   **Lewis Hamilton (2nd Place):** Lewis Hamilton is a proven Canadian Grand Prix specialist, holding a record seven victories at this circuit. While his move to Ferrari for 
+2025 introduces a variable in car performance, his individual prowess at this track, combined with his "Excellent" wet skill, makes him an exceptionally strong contender for a podium finish, especially with the forecasted rain. Assuming Ferrari provides a competitive car for 2025, Hamilton's immense experience, consistency, and ability to thrive in chaotic conditions will be paramount in securing a high position.
+
+*   **Lando Norris (3rd Place):** Lando Norris and McLaren have shown significant upward momentum, culminating in Norris's P2 finish at the 2024 Canadian Grand Prix. His "Good" wet skill is sufficient for mixed conditions, and his tenacious wheel-to-wheel racing and excellent qualifying pace make him a constant threat. McLaren's recent performance 
+suggests they have a car well-suited to various circuit types, and Norris's maturity and consistency will allow him to capitalize on opportunities for a podium finish.        
+
+**Performance Surprises or Disappointments:**
+
+*   **Surprise Potential: George Russell (Mercedes)**
+    George Russell finished P3 at the 2024 Canadian Grand Prix, demonstrating strong pace and racecraft. He has "Good" wet skill and consistently delivers strong baseline speed. If Mercedes maintains or improves their 2024 Canadian GP form, Russell could easily challenge for a podium spot, potentially even outperforming Lando Norris if conditions or strategy play into his hands. His consistency and overall improvement mark him as a driver who could exceed expectations.
+
+*   **Disappointment Potential: Charles Leclerc (Ferrari)**
+    While undeniably fast and with "Good" wet skill, Charles Leclerc's recent Canadian Grand Prix results have been inconsistent (P3 in 2019, P5 in 2022, P4 in 2023, DNF in 2024 due to reliability). With Lewis Hamilton joining Ferrari in 2025, there could be internal team dynamics, and if Ferrari's reliability or strategic execution falters as it did for them in 2024 Canada, Leclerc might find himself off the podium despite his talent. His primary weakness cited is sometimes losing performance on tires over long runs, which can be critical at a track like Montreal.
+
+---
 
 ## 🔮 Limitations
 
